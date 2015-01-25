@@ -2788,13 +2788,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3938785"
-     inkscape:cx="268.27908"
-     inkscape:cy="304.11928"
-     inkscape:current-layer="layer2"
+     inkscape:cx="263.25712"
+     inkscape:cy="998.58442"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="cm"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
      guidetolerance="20"
@@ -2817,6 +2817,10 @@
        units="cm"
        originx="0.5cm"
        originy="0.5cm" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="372.34236,1231.8147"
+       id="guide3738" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -4035,7 +4039,7 @@
        y="0"
        xlink:href="#g11294"
        id="use11305"
-       transform="matrix(0,1,-1,0,489.12608,-557.88599)"
+       transform="matrix(0,1,-1,0,480.47245,-556.46037)"
        width="765"
        height="1260" />
     <use
@@ -4044,7 +4048,7 @@
        y="0"
        xlink:href="#g11294"
        id="use11305-3"
-       transform="matrix(0,1,-1,0,820.78786,-559.17136)"
+       transform="matrix(0,1,-1,0,834.80315,-556.46037)"
        width="765"
        height="1260" />
   </g>
