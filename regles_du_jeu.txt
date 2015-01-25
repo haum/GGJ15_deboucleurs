@@ -1,0 +1,120 @@
+Déboucleurs !
+=============
+
+Jeu créée sur le week-end du 23 au 25 janvier 2015 au Haum
+
+De 2 à 5 joueurs,
+temps de jeu ?
+public ?
+
+Règles du jeu
+=============
+
+	1/ Synopsis
+	-----------
+Une expérience a mal tourné. En essayant de comprendre le temps, un groupe de chercheurs a fait une ENOOORME erreur.
+Ils pensaient revenir de quelques heures en arrière... mais l'expérience s'est emballée...
+Une boucle de plusieurs jours s'est alors créée et ce à plusieurs époques... Le temps est pollué et des incohérences
+commencent à remonter le temps... C'est l'heure du grand ménage de prinTEMPS....
+
+Nos apprentis-sorciers utilisent alors leur machine (bancale) pour remonter avant le début de la boucle et tout
+réparer... Ils doivent bloquer la progression des Singularités qui remontent le temps et eux-mêmes avancer jusqu'à la
+boucle pour la briser.
+
+Les Singularités sont tenaces et la mémoire d'un seul ne suffit pas... il leur faudra être 2 au moins pour rectifier les
+paradoxes qui viennent à leur rencontre.
+
+	2/ But du jeu
+	-------------
+Les chercheurs doivent avancer dans le temps pour remonter vers le présent avant que les Singularités n'arrivent au début de la boucle.
+
+	3/ Contenu
+	----------
+Le jeu contient x Dalle-temps (dont une de Début et une de Fin), 48 cartes Évènement, 42 cartes Objet, 7 cartes Époque, X pions Singularité, Y pions Chercheur, Z jauges d'énergie, 1 compte-tour.
+
+	4/ Liste des pictogrammes
+	-------------------------
+	
+	
+
+	5/ Mise en place du jeu
+	-----------------------
+	La taille du plateau dépend du nombre de joueurs : le tableau ci-dessous donne le nombre d'Époque en fonction du nombre de joueur.
+Les joueurs placent leur pion Chercheur sur la Dalle-temps de Début. Ils ont chacun 2 points d'énergie. 4 Dalle-temps sont placées d'emblée devant eux. Le nombre de Singularités correspondant à la vague 1 (cf tableau) est placé sur la Dalle-temps la plus éloignée de la Dalle de Début. L'époque sur laquelle ils sont placés est tirée au sort avec les cartes Époque (il peut donc y avoir plusieurs Singularités par époque).
+
+Le compte-tour est placé sur "Vague 1".
+
+|Nombre de joueurs|Nombre d'époques|Nombre de Singularité à la vague 1|Nombre de Singularité à la vague 2|
+|:---------------:|:--------------:|:--------------------------------:|:--------------------------------:|
+| 2               | 3              | 1                                | 2                                |
+| 3               | 5              |2                                 | 3                                | 
+| 4               | 7              |3                                 | 4                                |
+| 5               | 7              |3                                 | 4                                | 
+
+	6/ Déroulement
+	--------------
+	Un couple Dalle-temps/époque définit une case.
+	Les joueurs jouent chacun leur tour. Quand ils ont tous joué une fois, le compte-tour avance d'un cran et toutes les Singularités qui ne partagent pas leur case avec un Chercheur avancent d'une Dalle (vers la Dalle de Début). Les autres ne bougent pas.
+	Si le compte-tour indique "Vague 1", le nombre de Singularités de la vague 1 est placé sur la Dalle-temps la plus éloignée de la Dalle de début.
+	Si le compte-tour indique "Vague 2", le nombre de Singularités de la vague 2 est placé sur la Dalle-temps la plus éloignée de la Dalle de début.
+	Si le compte-tour n'indique rien, il ne se passe rien.
+	
+	Pendant son tour, le Chercheur peut effectuer les actions suivantes :
+	
+* dans le cas où il ne partage pas sa case avec une Singularité : 
+
+ 	* effectuer *un seul déplacement par tour* : 
+	Il peut se déplacer vers une Époque adjacente *ou* avancer d'une Dalle-temps (en restant dans la même époque). S'il n'y a pas de passage Trans-Époque ou qu'il y a une Faille Temporelle, il peut : soit dépenser un point d'Énergie et traverser sans encombre, soit effectuer son déplacement puis déclencher un Évènement. Si deux failles se suivent, deux points d'Énergie doivent être dépensés ou bien deux Évènements exécutés successivement. 
+	S'il y a un passage Trans-Époque ou qu'il n'y a pas de Faille Temporelle, le joueur se déplace normalement.
+	
+	*utiliser un Objet.
+	
+	*à tout moment pendant son tour et plusieurs fois par tour, un Chercheur peut remonter dans le temps (se déplacer d'une Dalle-temps vers le Début, dans la même époque) en utilisant un point d'Énergie. S'il passe par une Faille Temporelle, il effectue son déplacement puis exécute un Évènement.
+	
+	
+* dans le cas où il partage sa case avec une ou plusieurs Singularités, il ne peut pas se déplacer, mais peut :
+
+	*éliminer la Singularité : 
+	Pour que les joueurs éliminent les Singularités sur leur case, ils doivent être un de plus que le nombre de singularités présentes sur la case. Sinon, chaque Chercheur peut dépenser 3 points d'Énergie pour éliminer une Singularité. La mutualisation de l'Énergie n'est pas autorisée. Lorsque la Singularité est éliminée, elle est retirée du plateau de jeu.
+	Quand un ou plusieurs joueurs éliminent une Singularité, ils piochent chacun une carte Objet face cachée.
+	
+	*utiliser un Objet.
+
+
+	Si le Chercheur n'a fait AUCUNE de ces actions pendant son tour : 
+
+* s'il y a une Singularité sur sa case : le Chercheur n'avance pas et gagne un point d'Énergie. Fin de sa phase de jeu.
+* s'il n'y a pas de Singularité sur la case du Chercheur : le chercheur avance à la Dalle-temps suivante dans son époque et gagne un point d'Énergie. S'il traverse une Faille Temporelle, il déclenche un évènement. Fin de sa phase de jeu.
+
+
+	Quand un Chercheur atteint pour la première fois la Dalle la plus éloignée de celle de Début, 3 Dalle-temps sont immédiatement placées à sa suite.
+
+	*Un joueur déclenche un évènement*
+	Il tire une carte Évènement (symbole??), la lit à voix haute et exécute l'action qu'elle indique.
+	
+	*Un joueur souhaite utilise un Objet*
+	Il se défausse de la carte Objet qu'il souhaite utiliser et exécute l'action qui y figure.
+	
+	
+	
+	7/ Fin de la partie
+	-------------------
+
+La partie s'achève dès qu'une des situations ci-dessous est vraie :
+*une Singularité est sur la Dalle-temps de Début,
+*un des joueurs est sur la Dalle-temps de Fin.
+
+La Dalle-temps de fin apparaît au même moment que la dernière Dalle-temps (elle est placée juste après celle-ci). Le nombre de Dalle-temps total (sans compter Début et Fin) recommandé se trouve dans le tableau ci dessous :
+
+|Nombre de joueurs|Nombre de Dalle-temps|
+|:---------------:|:-------------------:|
+| 2               | 14                  |
+| 3               | 14                  |
+| 4               | 17                  |
+| 5               | 17                  |
+
+
+
+
+
+
