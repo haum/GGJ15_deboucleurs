@@ -14,7 +14,7 @@
    height="1260"
    id="svg3120"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="cartes1.svg">
   <defs
      id="defs3">
@@ -2787,10 +2787,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69693923"
-     inkscape:cx="242.59867"
-     inkscape:cy="949.14867"
-     inkscape:current-layer="g11294"
+     inkscape:zoom="1.3938785"
+     inkscape:cx="268.27908"
+     inkscape:cy="304.11928"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="cm"
      inkscape:snap-bbox="true"
@@ -2800,11 +2800,11 @@
      guidetolerance="20"
      objecttolerance="20"
      gridtolerance="10"
-     inkscape:window-width="1278"
-     inkscape:window-height="1005"
-     inkscape:window-x="1024"
-     inkscape:window-y="18"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid3126"
@@ -2924,7 +2924,7 @@
        sodipodi:cy="461.51855"
        sodipodi:rx="24.350132"
        sodipodi:ry="15.218833"
-       d="m -330.75598,461.51855 a 24.350132,15.218833 0 0 1 -13.19484,13.52788 l -11.15529,-13.52788 z"
+       d="m -330.75598,461.51855 c 0,5.69747 -5.09176,10.91775 -13.19484,13.52788 l -11.15529,-13.52788 z"
        transform="translate(0,-207.63753)"
        sodipodi:start="0"
        sodipodi:end="1.0949169" />
@@ -3437,12 +3437,12 @@
            y="505.1459"
            x="91.045425"
            id="tspan9981"
-           sodipodi:role="line">Tous les</tspan><tspan
+           sodipodi:role="line">Toutes les</tspan><tspan
            id="tspan9985"
            style="font-size:16px;text-align:center;text-anchor:middle"
            y="525.14587"
            x="91.045425"
-           sodipodi:role="line">ennemis</tspan><tspan
+           sodipodi:role="line">singularités</tspan><tspan
            style="font-size:16px;text-align:center;text-anchor:middle"
            id="tspan9983"
            y="545.14587"
@@ -3463,7 +3463,7 @@
            sodipodi:role="line"
            id="tspan10266"
            x="-294.23077"
-           y="219.03183"></tspan></text>
+           y="219.03183" /></text>
     </g>
     <use
        x="0"
@@ -3550,12 +3550,12 @@
            y="722.26788"
            x="513.14606"
            id="tspan10270"
-           sodipodi:role="line">Tous les</tspan><tspan
+           sodipodi:role="line">Toutes les</tspan><tspan
            style="font-size:16px"
            id="tspan10272"
            y="742.26788"
            x="513.14606"
-           sodipodi:role="line">ennemis</tspan><tspan
+           sodipodi:role="line">singularités</tspan><tspan
            style="font-size:16px"
            id="tspan10274"
            y="762.26788"
@@ -3612,11 +3612,11 @@
            y="933.30237"
            x="229.59453"
            id="tspan10358"
-           sodipodi:role="line">Tous les</tspan><tspan
+           sodipodi:role="line">Toutes les</tspan><tspan
            id="tspan10360"
            y="953.30237"
            x="229.59453"
-           sodipodi:role="line">ennemis</tspan><tspan
+           sodipodi:role="line">singularités</tspan><tspan
            id="tspan10362"
            y="973.30237"
            x="229.59453"
@@ -3636,11 +3636,11 @@
          sodipodi:role="line"
          id="tspan10358-3"
          x="655.41266"
-         y="931.5882">Tous les</tspan><tspan
+         y="931.5882">Toutes les</tspan><tspan
          sodipodi:role="line"
          x="655.41266"
          y="951.5882"
-         id="tspan10360-4">ennemis</tspan><tspan
+         id="tspan10360-4">singularités</tspan><tspan
          sodipodi:role="line"
          x="655.41266"
          y="971.5882"
@@ -3697,7 +3697,7 @@
            id="tspan10360-4-1"
            y="1152.4768"
            x="89.018196"
-           sodipodi:role="line">joeueur</tspan><tspan
+           sodipodi:role="line">joueur</tspan><tspan
            id="tspan10362-7-4"
            y="1172.4768"
            x="89.018196"
@@ -3855,25 +3855,28 @@
       <text
          sodipodi:linespacing="125%"
          id="text10993"
-         y="90.342781"
+         y="290.80609"
          x="228.72058"
          style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         xml:space="preserve"
-         transform="translate(0,207.63753)"><tspan
-           y="90.342781"
-           x="228.72058"
-           id="tspan10995"
-           sodipodi:role="line">Un monstre</tspan><tspan
+         xml:space="preserve"><tspan
            id="tspan10997"
-           y="110.34278"
+           y="290.80609"
+           x="231.26746"
+           sodipodi:role="line">Une </tspan><tspan
+           y="310.80609"
            x="228.72058"
-           sodipodi:role="line">apparaît</tspan><tspan
+           sodipodi:role="line"
+           id="tspan3715">singularité</tspan><tspan
+           y="330.80609"
+           x="228.72058"
+           sodipodi:role="line"
+           id="tspan3717">apparaît</tspan><tspan
            id="tspan10999"
-           y="130.34277"
+           y="350.80609"
            x="228.72058"
            sodipodi:role="line">derrière</tspan><tspan
            id="tspan11001"
-           y="150.34277"
+           y="370.80609"
            x="228.72058"
            sodipodi:role="line">le joueur</tspan></text>
       <g
