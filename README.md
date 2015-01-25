@@ -1,7 +1,7 @@
 Déboucleurs !
 =============
 
-Jeu créée sur le week-end du 23 au 25 janvier 2015 au doc
+Jeu créé pendant le week-end du 23 au 25 janvier 2015 lors de la Global Game Jam au HAUM.
 
 Histoire
 ========
@@ -11,10 +11,10 @@ Histoire
 > Une expérience a mal tourné. En essayant de comprendre le temps, un groupe de chercheurs a fait une ENOOORME erreur.
 > Ils pensaient revenir de quelques heures en arrière... mais l'expérience s'est emballée...
 > Une boucle de plusieurs jours s'est alors créée et ce à plusieurs époques... Le temps est pollué et des incohérences
-> commence à remonter le temps... C'est l'heure du grand ménage de prinTEMPS....
+> commencent à remonter le temps... C'est l'heure du grand ménage de prinTEMPS....
 > 
 > Nos apprentis-sorciers utilisent alors leur machine (bancale) pour remonter avant le début de la boucle et tout
-> réparer... Ils doivent bloquer la progression des singularités qui remonte le temps et eux-mêmes avancer jusqu'a la
+> réparer... Ils doivent bloquer la progression des singularités qui remontent le temps et eux-mêmes avancer jusqu'à la
 > boucle pour la briser.
 > 
 > Les singularités sont tenaces et la mémoire d'un seul ne suffit pas... il leur faudra être 2 au moins pour rectifier les
