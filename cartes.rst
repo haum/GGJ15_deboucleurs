@@ -18,17 +18,17 @@
   * Il a des jours où le temps semble reculer.... vous, vous reculez de 2 cases.
 - 1 carte(s) les joueurs reculent d'une case
   * Une secousse, une impression de déjà vu...  tous les joueurs reculent d'une case
+- 3 carte(s) un monstre apparait derrière le joueur
+  * Vous polluez le temps par votre présence... une singularité apparait sur la Dalle derrière vous.
+- 3 carte(s) durant ce tour, il faut être n+2 pour tuer les monstre.
+  * Dépités vous perdez peu à peu la mémoire,... pendant ce tour il faudra être 2 de plus que les singularités pour les
+    rectifier
 - 6 carte(s) les joueurs passent à l'époque suivante du temps
   * Ras le bol de cette époque... et si, on changeait tous ! Tous les jours passent à l'époque suivante
 - 5 carte(s) un monstre apparait devant le joueur
   * On vous avait dit d'éviter les paradoxes.... Votre bétise fait apparaître une singularité sur la case devant vous
-- 3 carte(s) un monstre apparait derrière le joueur
-  * Vous polluez le temps par votre présence... une singularité apparait sur la Dalle derrière vous.
 - 7 carte(s) ajouter un monstre sur la dernière tuile (tirer au sort l'époque)
   * Encore des paradoxes. Tirez une époque au sort et ajouter une singularité sur la dernière case de cette époque
-- 3 carte(s) durant ce tour, il faut être n+2 pour tuer les monstre.
-  * Dépités vous perdez peu à peu la mémoire,... pendant ce tour il faudra être 2 de plus que les singularités pour les
-    rectifier
 - 2 carte(s) Toutes les dalles inoccupées sont remplacées par des nouvelles
   * Votre bourde est pire que prévu : le cours du temps se modifie de façon spontannée. Remplacez toute les cases
     innocupées par de nouvelles
@@ -37,10 +37,10 @@ OBJETS
 
 - 7 carte(s) transfert vers une époque à côté (dans le même jour
 - 7 carte(s) timenamite (défoncez un cul-de-sac)
-- 5 carte(s) pause syndicale : les monstres s'arrête pour un tour
-- 5 carte(s) boost : avancez d'un jour supplémentaire pour ce tour, ne gagnez aucune nrj
 - 5 carte(s) Ouvre-boite monstreux : défoncez le monstre... seul.
+- 5 carte(s) pause syndicale : les monstres s'arrête pour un tour
 - 1 carte(s) Déchirure du temps... ouvrez et laissez ouvert un passage
+- 5 carte(s) boost : avancez d'un jour supplémentaire pour ce tour, ne gagnez aucune nrj
 - 2 carte(s) longue-vue : ajouter une dalle
 - 5 carte(s) Hammac : gagnez deux PE au lieu d'un quand vous subissez le temps
 - 1 carte(s) Téléportation : vous pouvez vous rendre n'importe où sur la carte du temps...
